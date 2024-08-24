@@ -14,12 +14,12 @@ st.set_page_config(page_title='Ivsa National Congress',
 
 t1, t2 = st.columns((0.2,1)) 
 
-
+t1.image('images/ivsanigeria.jpg', width = 180)
 t2.title("Ivsa Nigeria National Congress (COAL CITY 2023) Handover Report")
 t2.markdown(" **Tel:** 08147244592 **| Website:** https://ivsanigeria.wordpress.com | **Email:** ivsanigeria@gmail.com")
 
 st.write('---')
-ivsa = pd.read_excel(r'C:\Users\DELL\Downloads\IVSA NIGERIA CONGRESS 2023 clean.xlsx')
+ivsa = pd.read_excel('IVSA NIGERIA CONGRESS 2023 clean.xlsx')
 
 s1, s2 = st.columns((2, 0.1))
 with s1.container():
