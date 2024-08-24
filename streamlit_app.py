@@ -2,7 +2,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-import plotly as pxs
+
 
 
 st.set_page_config(page_title='Ivsa National Congress',
