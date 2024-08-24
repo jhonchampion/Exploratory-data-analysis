@@ -14,7 +14,7 @@ st.set_page_config(page_title='Ivsa National Congress',
 
 t1, t2 = st.columns((0.2,1)) 
 
-t1.image('ivsanigeria.jpg', width = 180)
+
 t2.title("Ivsa Nigeria National Congress (COAL CITY 2023) Handover Report")
 t2.markdown(" **Tel:** 08147244592 **| Website:** https://ivsanigeria.wordpress.com | **Email:** ivsanigeria@gmail.com")
 
