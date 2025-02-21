@@ -47,7 +47,7 @@ with col1:
     st.plotly_chart(fig)
 with col2:
     school = ivsa['University '].value_counts().sort_values()
-    fig = px.bar(school, color=school, title='Delegates by School;', color_continuous_midpoint=50, color_continuous_scale='sunset', labels={'value': 'Count',})
+    fig = px.bar(school, title='Delegates by School;', color_continuous_midpoint=50, color_continuous_scale='sunset', labels={'value': 'Count',})
     st.plotly_chart(fig)
     
 
