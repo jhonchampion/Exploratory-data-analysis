@@ -42,7 +42,7 @@ with s1.container():
 
 col1, col2 = st.columns(2)
 with col1:
-    level = ivsa['Study_year'].value_counts()
+    level = ivsa['Study_year']
     fig = px.bar(level, color= level, title='Delegates by Class;', color_continuous_scale='inferno', labels={'value': 'Count', 'Study_year': 'Class_level'})
     st.plotly_chart(fig)
 with col2:
