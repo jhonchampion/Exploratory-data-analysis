@@ -1,5 +1,10 @@
-# Ivsa Annual Convention Report
-This report shows insights from the registration data for the IVSA national Congress in University of Nigeria, Nsukka.
-Focused on the registrants and their selection choices for the events.
+# Exploratory Data Analysis Report
 
-This is analysis is done with the sole purpose of helping subsequent organizers understand attendees choices and preferences and plan better.
+This report shows insights from the **registration data** for the IVSA national Congress in University of Nigeria, Nsukka.
+Focused on the **registrants and their selection choices** for the events.
+
+This is purely an **Exploatory Data Analysis** project done with the sole purpose of helping subsequent organizers understand attendees choices and preferences and plan better.
+
+## Tools
+- This project was done using **Python** for both the analysis, report and deployment.
+- This project was deployed on **Streamlit**
