@@ -1,6 +1,6 @@
 # Exploratory Data Analysis Report
 
-![](images/ivsa Report.png)
+![](images/ivsa-Report.png)
 
 This report shows insights from the **registration data** for the IVSA national Congress in University of Nigeria, Nsukka.
 Focused on the **registrants and their selection choices** for the events.
