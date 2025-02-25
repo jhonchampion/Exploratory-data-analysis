@@ -8,3 +8,6 @@ This is purely an **Exploatory Data Analysis** project done with the sole purpos
 ## Tools
 - This project was done using **Python** for both the analysis, report and deployment.
 - This project was deployed on **Streamlit**
+
+
+# You can access the report [here](https://ivsareport.streamlit.app/)
